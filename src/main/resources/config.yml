@@ -1,0 +1,35 @@
+dialog:
+  # Title inside the dialog.
+  title: "<white>Server Links"
+
+  # Allow ESC to close the dialog.
+  can-close-with-escape: true
+
+  # Number of columns.
+  columns: 1
+
+  # Width of buttons.
+  button-width: 310
+
+
+links:
+
+  discord:
+    enabled: true
+    name: "<color:#5865F2>Discord"
+    url: "https://discord.gg/yourserver"
+
+  website:
+    enabled: true
+    name: "<aqua>Website"
+    url: "https://example.com"
+
+  store:
+    enabled: true
+    name: "<gold>Store"
+    url: "https://store.example.com"
+
+  rules:
+    enabled: true
+    name: "<yellow>Rules"
+    url: "https://example.com/rules"
