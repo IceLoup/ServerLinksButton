@@ -1,16 +1,9 @@
 dialog:
-  # Title inside the dialog.
   title: "<white>Server Links"
-
-  # Allow ESC to close the dialog.
+  external-title: "<white>Server Links"
   can-close-with-escape: true
-
-  # Number of columns.
   columns: 1
-
-  # Width of buttons.
   button-width: 310
-
 
 links:
 

@@ -1,7 +1,9 @@
 name: ServerLinksButton
-version: '1.0.0'
-main: xyz.pyxismc.serverLinksButton.ServerLinksButton
-bootstrapper: xyz.pyxismc.serverLinksButton.LinksBootstrap
+version: '${project.version}'
+main: xyz.pyxismc.serverLinksButton.paper.ServerLinksButton
+bootstrapper: xyz.pyxismc.serverLinksButton.paper.LinksBootstrap
 api-version: '1.21.11'
 
 description: Customizes the Server Links button.
+author: IceLoup
+website: https://pyxismc.xyz
